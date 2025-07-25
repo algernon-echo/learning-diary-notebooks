@@ -30,3 +30,11 @@ Support HotPotQA benchmark evaluation （事实准确+逻辑链合理）
 
 ### 对于项目的理解；我的学习成果，和学习方法；我的问题和思考
 
+pyproject.toml是什么？我加了35行rich
+
+extending.md 54行+python
+
+main.py —verbose逻辑问题 line 44
+
+tool/__init__.py/line 5 那个example是不是过时代码没及时更新
+
